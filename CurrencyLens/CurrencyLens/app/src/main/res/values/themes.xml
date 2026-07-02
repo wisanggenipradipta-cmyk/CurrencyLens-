@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.CurrencyLens" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">#99000000</item>
+    </style>
+</resources>
