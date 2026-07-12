@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Currency Lens</string>
-    <string name="camera_permission_needed">Camera permission is required to scan prices.</string>
-    <string name="loading_rates">Fetching exchange rates…</string>
-</resources>
